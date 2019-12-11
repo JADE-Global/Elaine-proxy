@@ -1,0 +1,12 @@
+# Compiled Files
+# client/dist/
+
+# Dependency Files
+node_modules/
+
+# API Keys
+# database/config/aws.js
+
+# Test Suites
+__snapshots__/
+coverage/
