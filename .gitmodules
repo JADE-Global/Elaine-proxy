@@ -1,0 +1,9 @@
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/JADE-Global/reviews.git
+[submodule "popularFoods"]
+	path = popularFoods
+	url = https://github.com/JADE-Global/popularFoods.git
+[submodule "overviewGallery"]
+	path = overviewGallery
+	url = https://github.com/JADE-Global/overviewGallery.git
